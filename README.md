@@ -1,3 +1,3 @@
 # FREE_STAR
 
-A game about space.
+A game about nothing. ;)
