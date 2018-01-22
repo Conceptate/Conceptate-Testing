@@ -1,1 +1,3 @@
-# Free_Star
+# FREE_STAR
+
+A game about space.
